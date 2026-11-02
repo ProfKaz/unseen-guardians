@@ -1,0 +1,13 @@
+title: 'Unseen Guardians'
+description: 'The KazDemos Chronicles. Historias de TI, seguridad y gobierno de datos. Stories about IT, security and data governance.'
+theme: minima
+lang: es
+timezone: America/Bogota
+markdown: kramdown
+permalink: /:categories/:title/
+url: 'https://profkaz.github.io'
+baseurl: '/unseen-guardians'
+show_excerpts: true
+exclude:
+  - README.md
+  - reader-README.md
